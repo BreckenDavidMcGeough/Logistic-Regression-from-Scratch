@@ -1,0 +1,2 @@
+# LogisticClassifier
+Logistic regression classifier 
