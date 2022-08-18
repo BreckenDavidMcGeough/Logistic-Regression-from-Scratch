@@ -1,2 +1,2 @@
 # LogisticClassifier
-Logistic regression classifier 
+Logistic regression classifier from scratch.
